@@ -2,7 +2,7 @@
 <h3 align="center">Data Analyst | Aspiring Data Scientist | Exploring AI, Machine Learning & Big Data</h3>
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/478f4425-536b-4c16-b465-23c01dea28ec" width="500"/>
+  <img src="https://github.com/user-attachments/assets/0c7de8b4-108e-49d6-bd2b-20b1f55847d5" width="400"/>
 </div>
 
 - 🔭 Currently building **advanced analytics dashboards to drive strategic decision-making**
@@ -13,14 +13,7 @@
 
 - 📫 How to reach me: **abbasrana2261@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/abbas_rana_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abbas_rana_" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/muhammadabbasrana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammadabbasrana" height="30" width="40" /></a>
-<a href="https://instagram.com/abbas.rana_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abbas.rana_" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Tech Stack:</h3>
 <p align="left">
 <!-- Languages -->
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
@@ -41,6 +34,10 @@
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abbasrana001&show_icons=true&locale=en&layout=compact" alt="abbasrana001" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abbasrana001&show_icons=true&locale=en" alt="abbasrana001" /></p>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/abbas_rana_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abbas_rana_" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/muhammadabbasrana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammadabbasrana" height="30" width="40" /></a>
+<a href="https://instagram.com/abbas.rana_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abbas.rana_" height="30" width="40" /></a>
+</p>
