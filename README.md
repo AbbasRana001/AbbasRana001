@@ -1,12 +1,12 @@
 <h1 align="center">Welcome. I'm Abbas.</h1>
-<h3 align="center">Data Analyst | Aspiring Data Scientist | Exploring AI, Machine Learning & Big Data</h3>
+<h3 align="center">Machine Learning Engineering Intern @ FlyRank AI & DigiSync Tech | FastAPI, Docker, AWS | Building Production-Ready ML Backend Services</h3>
 <div align="center">
   <img src="https://github.com/user-attachments/assets/0c7de8b4-108e-49d6-bd2b-20b1f55847d5" width="400"/>
 </div>
 
-- 🔭 Currently building **advanced analytics dashboards to drive strategic decision-making**
-- 🌱 Learning **Data Science and Machine Learning fundamentals**
-- 👯 Open to collaborate on **open-source data projects, especially in Python and ML**
+- 🔭 Currently building **production-ready ML backend services**
+- 🌱 Learning **deployment workflows on AWS and scalable application containerization with Docker**
+- 👯 Open to collaborate on **open-source AI initiatives, RESTful API development, and Python-based machine learning projects**
 - 📫 How to reach me: **[abbasrana2261@gmail.com](mailto:abbasrana2261@gmail.com)**
 
 <h3 align="left">Tech Stack:</h3>
@@ -17,7 +17,6 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MS SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
