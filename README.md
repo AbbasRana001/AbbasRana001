@@ -1,5 +1,5 @@
 <h1 align="center">Welcome. I'm Abbas.</h1>
-<h3 align="center">Machine Learning Engineering Intern @ DigiSync Tech | FastAPI, Docker, AWS | Building Production-Ready ML Backend Services</h3>
+<h3 align="center">AI & ML Engineering Intern @ DigiSync Tech | FastAPI, Docker, AWS | Building Production-Ready ML Backend Services</h3>
 <div align="center">
   <img src="https://github.com/user-attachments/assets/0c7de8b4-108e-49d6-bd2b-20b1f55847d5" width="400"/>
 </div>
