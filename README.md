@@ -12,19 +12,7 @@
 
 ### About
 
-I'm a final-year Computer Science student (graduating June 2027) working on NLP for Urdu and Roman Urdu, and on the engineering that turns models into deployable services. I currently intern as a Data Science Intern at 10Pearls Pakistan and teach A-Level and GCSE Computer Science part-time. I am applying to master's programmes in Europe.
-
-### What I'm working on
-
-- **Final-year project: hate speech detection for Urdu, Roman Urdu and code-switched text.** I lead a team of three. We collected our own corpus of 200K+ raw comments from X, Facebook and YouTube, and I designed the annotation guideline (now at v2.5) that structures labels for target, severity, abuse form and violent threat. Models under evaluation are XLM-RoBERTa and MuRIL, with a browser extension as the target deployment.
-- **[PolicyJEV](https://github.com/AbbasRana001/PolicyJEV)** is a reproducible case study on probabilistic content moderation. It compares TypeSafe's JEV model, used zero-shot, against TF-IDF + logistic regression and DistilBERT on Jigsaw toxic comments, under a frozen evaluation protocol and a three-way moderation policy. Released on Zenodo (v1.0.1).
-- **[AgentWeather](https://github.com/AbbasRana001/AgentWeather)** is an agentic MLOps platform that forecasts weather and air-quality metrics 24 hours ahead. It is built around a Hopsworks feature store, a LangGraph agent layer, scheduled GitHub Actions pipelines and a Streamlit dashboard, and is in active development.
-- **WorldQuant University Applied Data Science Lab.** Four projects completed (for example [Mexico real estate](https://github.com/AbbasRana001/Mexico-Real-Estate-Price-Analysis) and [Buenos Aires housing](https://github.com/AbbasRana001/buenos-aires-housing-prediction)), plus the Data Science Modeling credential.
-
-### Engineering work
-
-- **[fastapi-task-manager](https://github.com/AbbasRana001/fastapi-task-manager)**: FastAPI service with pytest, Docker, and a GitHub Actions pipeline (lint, CodeQL, image build and push, SSH deploy) running on AWS EC2.
-- **[linux-server-setup](https://github.com/AbbasRana001/linux-server-setup)**: the server hardening and deployment behind it: SSH access controls, Nginx reverse proxy, HTTPS, systemd, logging and health checks.
+Computer Science student at COMSATS Lahore working on NLP for Urdu and Roman Urdu. Data Science Intern at 10Pearls Pakistan, and part-time Computer Science educator for A-Level and GCSE students.
 
 ### Tech stack
 
@@ -40,8 +28,8 @@ I'm a final-year Computer Science student (graduating June 2027) working on NLP 
 
 ### Open to
 
-Research collaboration in low-resource NLP, annotation methodology and responsible content moderation, and to research internships.
+Research opportunities and collaboration across AI, machine learning and NLP.
 
 ### Contact
 
-[Email](mailto:abbasrana2261@gmail.com) · [LinkedIn](https://www.linkedin.com/in/muhammadabbasrana) · [Portfolio](https://portfolio-roan-sigma-35.vercel.app/) · [ORCID](https://orcid.org/0009-0000-7585-7509) · [X](https://twitter.com/abbas_rana_)
+[Email](mailto:abbasrana2261@gmail.com) · [LinkedIn](https://www.linkedin.com/in/muhammadabbasrana) · [Portfolio](https://portfolio-roan-sigma-35.vercel.app/) · [ORCID](https://orcid.org/0009-0000-7585-7509)
