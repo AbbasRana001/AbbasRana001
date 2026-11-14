@@ -4,7 +4,7 @@
 
 ### About
 
-Final-year Computer Science student at COMSATS Lahore working on NLP for Urdu and Roman Urdu. Data Science Intern at 10Pearls and educator at Eximus Education, teaching A-Level and GCSE.
+Final-year Computer Science student at COMSATS Lahore conducting NLP research on Urdu and Roman Urdu. Currently a Data Science Intern at 10Pearls and a Computer Science educator at Eximus Education, teaching A-Level and IGCSE.
 
 ### Tech stack
 
