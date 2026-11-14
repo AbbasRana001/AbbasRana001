@@ -4,7 +4,7 @@
 
 ### About
 
-Computer Science student at COMSATS Lahore working on NLP for Urdu and Roman Urdu. Data Science Intern at 10Pearls, and part-time Computer Science educator for A-Level and GCSE students.
+Computer Science student at COMSATS Lahore working on NLP for Urdu and Roman Urdu. Data Science Intern at 10Pearls, and part-time educator for A-Level and GCSE computing.
 
 ### Tech stack
 
